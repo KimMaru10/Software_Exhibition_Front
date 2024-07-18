@@ -1,6 +1,6 @@
-![스크린샷 2023-11-02 오후 1.36.53.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/28e61d31-5355-4c81-9bec-9a3e2642524e/1858d74d-33cd-46f0-a959-f02bda157111/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-11-02_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_1.36.53.png)
 
-## 👥프로젝트 팀 구성
+## 👥<img width="541" alt="스크린샷 2023-11-02 오후 1 36 53" src="https://github.com/user-attachments/assets/be478a32-a1dd-427b-9bae-c1e4bafe388d">
+프로젝트 팀 구성
 
 - 프론트엔드 팀 2명
 - 백엔드 팀 2명
