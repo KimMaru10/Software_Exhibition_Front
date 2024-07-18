@@ -1,7 +1,7 @@
 
-## 👥<img width="541" alt="스크린샷 2023-11-02 오후 1 36 53" src="https://github.com/user-attachments/assets/be478a32-a1dd-427b-9bae-c1e4bafe388d">
+<img width="541" alt="스크린샷 2023-11-02 오후 1 36 53" src="https://github.com/user-attachments/assets/be478a32-a1dd-427b-9bae-c1e4bafe388d">
 
-프로젝트 팀 구성
+## 👥프로젝트 팀 구성
 
 - 프론트엔드 팀 2명
 - 백엔드 팀 2명
